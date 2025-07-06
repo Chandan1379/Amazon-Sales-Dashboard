@@ -43,4 +43,4 @@ The dashboard helps to:
 Skilled in Power BI, SQL, and Data Analysis
 
 ### 📫 Connect with Me
-- **LinkedIn**: [www.linkedin.com/in/chandan-kumar-professional](https://www.linkedin.com/in/chandan-kumar-professional)
+- **LinkedIn**: [www.linkedin.com/in/chandan-kumar-professional]
