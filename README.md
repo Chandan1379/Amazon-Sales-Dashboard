@@ -44,4 +44,3 @@ Skilled in Power BI, SQL, and Data Analysis
 
 ### 📫 Connect with Me
 - **LinkedIn**: [www.linkedin.com/in/chandan-kumar-professional](https://www.linkedin.com/in/chandan-kumar-professional)
-- **Email**: [ck431305@gmail.com](mailto:ck431305@gmail.com)
